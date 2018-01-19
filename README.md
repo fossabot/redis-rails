@@ -121,7 +121,12 @@ If you are on **Snow Leopard** you have to run `env ARCHFLAGS="-arch x86_64" bun
 [![Gem Version](https://badge.fury.io/rb/redis-rails.svg)](http://badge.fury.io/rb/redis-rails)
 [![Build Status](https://secure.travis-ci.org/redis-store/redis-rails.svg?branch=master)](http://travis-ci.org/redis-store/redis-rails?branch=master)
 [![Code Climate](https://codeclimate.com/github/redis-store/redis-rails.svg)](https://codeclimate.com/github/redis-store/redis-rails)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fredis-rails.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fredis-rails?ref=badge_shield)
 
 ## Copyright
 
 2009 - 2011 Luca Guidi - [http://lucaguidi.com](http://lucaguidi.com), released under the MIT license
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fredis-rails.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fredis-rails?ref=badge_large)
